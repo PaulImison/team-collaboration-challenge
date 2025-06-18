@@ -7,5 +7,5 @@
 ### Favourite Tech Stack
 - Postgres + NextJS
 
-### GitHub Profile URL
+### GitHub
 - https://github.com/Mirror83
