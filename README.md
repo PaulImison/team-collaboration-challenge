@@ -1,14 +1,14 @@
 # team-collaboration-challenge
 
-## Ian Gitonga
+### Ian Gitonga
 
-## Fun fact
+### Fun fact
 - I'm an introvert till you get to know me.
 
-## Favorite Tech Stack
+### Favorite Tech Stack
 - Python
 - MongoDB
 - VS Code
 
-## Github Profile
+### Github
  - https://github.com/dungitonga
