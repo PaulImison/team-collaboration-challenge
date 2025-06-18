@@ -1,6 +1,6 @@
 # team-collaboration-challenge
 
-### Ian Gitonga
+## Ian Gitonga
 
 ### Fun fact
 - I'm an introvert till you get to know me.
