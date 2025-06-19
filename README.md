@@ -1,14 +1,6 @@
-# team-collaboration-challenge
+# team-collaberation-challenge
 
-## Ian Gitonga
-
-### Fun fact
-- I'm an introvert till you get to know me.
-
-### Favorite Tech Stack
-- Python
-- MongoDB
-- VS Code
-
-### Github
- - https://github.com/dungitonga
+Full name: Stephen Kihuni
+- Fun fact: I love eating Ugali with Sukuma Wiki
+- Favourite tech stack: Django + NextJs
+- GitHub Profile Link: https://github.com/kihuni
