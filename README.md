@@ -49,4 +49,16 @@
  - https://github.com/dungitonga
 
 
+## Vincent Jared
+
+### Fun fact
+- I am a very talkative person unless you don't know me
+
+### Favorite Tech Stack
+- Swift UI and Swift UIKit
+- React
+- VS Code
+
+### Github
+- https://github.com/jaredvincent414
 
