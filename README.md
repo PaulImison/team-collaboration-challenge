@@ -1,4 +1,4 @@
-# team-collaberation-challenge
+# team-collaboration-challenge
 
 Full name: Stephen Kihuni
 - Fun fact: I love eating Ugali with Sukuma Wiki
