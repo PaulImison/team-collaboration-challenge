@@ -1,6 +1,18 @@
 # team-collaboration-challenge
 
 
+## Stephen Kihuni
+
+### Fun fact
+- I love eating Ugali with Sukuma Wiki
+
+### Favourite Tech Stack
+- Django + NextJs
+
+### GitHub
+- https://github.com/kihuni
+
+
 ## Glen Ochieng
 
 ### Fun fact
@@ -35,5 +47,6 @@
 
 ### Github
  - https://github.com/dungitonga
+
 
 
